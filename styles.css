@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-primary{
+    background-color: #557C55;
+    margin-bottom: 20px;
+}
+
+.col{
+    border: 1px solid black;
+    background-color: #F2FFE9;
+    box-shadow: 2px 2px 8px black;
+    padding: 0;
+    height: 33.333%;
+}
+
+.container{
+    height: 350px;
+    width: 400px;
+    margin: 30px;
+}
+
+.display-3{
+    color: #3FA796;
+}
+
+.display-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #557C55;
+}
+
+.display-6{
+    color: #557C55;
+}
+
+.row{
+    height: 100%;
+    border: 1px solid black;
+    box-shadow: 2px 2px 8px black;
+}
+
+
